@@ -1,0 +1,1 @@
+SELECT (FirstName + ' ' + MiddleName + ' ' + LastName) AS FullName FROM Employees;

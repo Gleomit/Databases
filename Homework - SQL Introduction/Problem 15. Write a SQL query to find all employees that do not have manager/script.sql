@@ -1,0 +1,1 @@
+SELECT * FROM Employees WHERE ISNULL(ManagerID, -1) = -1;
